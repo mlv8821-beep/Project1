@@ -310,19 +310,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/matthewviola/.nuget/packages/": {}
+    "C:\\Users\\matth\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewviola/Downloads/Project1/Project1.csproj",
+      "projectUniqueName": "C:\\Users\\matth\\Downloads\\Homework00\\Project1\\Project1.csproj",
       "projectName": "Project1",
-      "projectPath": "/Users/matthewviola/Downloads/Project1/Project1.csproj",
-      "packagesPath": "/Users/matthewviola/.nuget/packages/",
-      "outputPath": "/Users/matthewviola/Downloads/Project1/obj/",
+      "projectPath": "C:\\Users\\matth\\Downloads\\Homework00\\Project1\\Project1.csproj",
+      "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matth\\Downloads\\Homework00\\Project1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/matthewviola/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -377,7 +377,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.318/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

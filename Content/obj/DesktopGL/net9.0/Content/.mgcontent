@@ -4,8 +4,8 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/Users/matthewviola/Downloads/Project1/Content/alien.png</File>
-    <File>/Users/matthewviola/Downloads/Project1/Content/Space-Invaders-PNG-Transparent-Image.png</File>
+    <File>C:/Users/matth/Downloads/Homework00/Project1/Content/alien.png</File>
+    <File>C:/Users/matth/Downloads/Homework00/Project1/Content/Space-Invaders-PNG-Transparent-Image.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
